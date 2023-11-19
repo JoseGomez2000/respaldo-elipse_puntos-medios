@@ -1,0 +1,16 @@
+C:\Users\Yordan\Documents\graficacion_visual\elipse_puntos_medios\elipse_puntos_medios\bin\Debug\net6.0-windows\elipse_puntos_medios.exe
+C:\Users\Yordan\Documents\graficacion_visual\elipse_puntos_medios\elipse_puntos_medios\bin\Debug\net6.0-windows\elipse_puntos_medios.deps.json
+C:\Users\Yordan\Documents\graficacion_visual\elipse_puntos_medios\elipse_puntos_medios\bin\Debug\net6.0-windows\elipse_puntos_medios.runtimeconfig.json
+C:\Users\Yordan\Documents\graficacion_visual\elipse_puntos_medios\elipse_puntos_medios\bin\Debug\net6.0-windows\elipse_puntos_medios.dll
+C:\Users\Yordan\Documents\graficacion_visual\elipse_puntos_medios\elipse_puntos_medios\bin\Debug\net6.0-windows\elipse_puntos_medios.pdb
+C:\Users\Yordan\Documents\graficacion_visual\elipse_puntos_medios\elipse_puntos_medios\obj\Debug\net6.0-windows\elipse_puntos_medios.Form1.resources
+C:\Users\Yordan\Documents\graficacion_visual\elipse_puntos_medios\elipse_puntos_medios\obj\Debug\net6.0-windows\elipse_puntos_medios.csproj.GenerateResource.cache
+C:\Users\Yordan\Documents\graficacion_visual\elipse_puntos_medios\elipse_puntos_medios\obj\Debug\net6.0-windows\elipse_puntos_medios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yordan\Documents\graficacion_visual\elipse_puntos_medios\elipse_puntos_medios\obj\Debug\net6.0-windows\elipse_puntos_medios.AssemblyInfoInputs.cache
+C:\Users\Yordan\Documents\graficacion_visual\elipse_puntos_medios\elipse_puntos_medios\obj\Debug\net6.0-windows\elipse_puntos_medios.AssemblyInfo.cs
+C:\Users\Yordan\Documents\graficacion_visual\elipse_puntos_medios\elipse_puntos_medios\obj\Debug\net6.0-windows\elipse_puntos_medios.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Documents\graficacion_visual\elipse_puntos_medios\elipse_puntos_medios\obj\Debug\net6.0-windows\elipse_puntos_medios.dll
+C:\Users\Yordan\Documents\graficacion_visual\elipse_puntos_medios\elipse_puntos_medios\obj\Debug\net6.0-windows\refint\elipse_puntos_medios.dll
+C:\Users\Yordan\Documents\graficacion_visual\elipse_puntos_medios\elipse_puntos_medios\obj\Debug\net6.0-windows\elipse_puntos_medios.pdb
+C:\Users\Yordan\Documents\graficacion_visual\elipse_puntos_medios\elipse_puntos_medios\obj\Debug\net6.0-windows\elipse_puntos_medios.genruntimeconfig.cache
+C:\Users\Yordan\Documents\graficacion_visual\elipse_puntos_medios\elipse_puntos_medios\obj\Debug\net6.0-windows\ref\elipse_puntos_medios.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "elipse_puntos_medios/1.0.0": {
+        "runtime": {
+          "elipse_puntos_medios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "elipse_puntos_medios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
